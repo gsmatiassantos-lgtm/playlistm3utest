@@ -1,0 +1,202 @@
+#EXTM3U
+
+# ===== PT-Geral =====
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://static.iptv-epg.com/pt/RTP1.pt.png" group-title="PT-Geral",RTP 1 HD
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-logo="https://static.iptv-epg.com/pt/RTP2.pt.png" group-title="PT-Geral",RTP 2 HD
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://static.iptv-epg.com/pt/SIC.pt.png" group-title="PT-Geral",SIC HD
+https://sic.live.impresa.pt/sic1080p.m3u8
+
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://static.iptv-epg.com/pt/RTPInternacional.pt.png" group-title="PT-Geral",RTP Mundo HD
+http://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="https://static.iptv-epg.com/pt/TVI.pt.png" group-title="PT-Geral",TVI HD
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
+
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://static.iptv-epg.com/pt/CNNPortugal.pt.png" group-title="PT-Geral",CNN Portugal HD
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
+
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo="https://static.iptv-epg.com/pt/TVIFiccao.pt.png" group-title="PT-Geral",TVI Ficção HD
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvificcao.m3u8
+
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="https://static.iptv-epg.com/pt/TVI.pt.png" group-title="PT-Geral",V+ TVI HD
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/vmaistvi.m3u8
+
+#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-logo="https://static.iptv-epg.com/pt/TVIInternacional.pt.png" group-title="PT-Geral",TVI Internacional HD
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
+
+#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-logo="https://static.iptv-epg.com/pt/SICNoticias.pt.png" group-title="PT-Geral",SIC NOTICIAS HD
+https://sicnot.live.impresa.pt/sicnot.m3u8
+
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://static.iptv-epg.com/pt/RTPMemoria.pt.png" group-title="PT-Geral",RTP MEMORIA HD
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://static.iptv-epg.com/pt/TVIReality.pt.png" group-title="PT-Geral",TVI REALITY HD
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvireality.m3u8
+
+#EXTINF:-1 tvg-id="RTPNoticias.pt" tvg-logo="https://static.iptv-epg.com/pt/RTPNoticias.pt.png" group-title="PT-Geral",RTP NOTICIAS HD
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-logo="https://static.iptv-epg.com/pt/Canal11.pt.png" group-title="PT-Geral",CANAL 11 HD
+https://dy4isoelz3s0x.cloudfront.net/0_hd.m3u8
+
+#EXTINF:-1 tvg-id="RTPDesporto1.pt" tvg-logo="https://static.iptv-epg.com/pt/RTPDesporto1.pt.png" group-title="PT-Geral",RTP DESPORTO 1 HD
+https://streaming-live.rtp.pt/liverepeater/smil:desporto1HD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTPDesporto2.pt" tvg-logo="https://static.iptv-epg.com/pt/RTPDesporto2.pt.png" group-title="PT-Geral",RTP DESPORTO 2 HD
+https://streaming-live.rtp.pt/liverepeater/smil:desporto2HD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-logo="https://static.iptv-epg.com/pt/AXNMovies.pt.png" group-title="PT-Geral",AXN MOVIES HD
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+
+#EXTINF:-1 tvg-id="SportTV.pt" tvg-logo="https://static.iptv-epg.com/pt/SportTV.pt.png" group-title="PT-Geral",SPORT TV + HD
+https://sporttv+.m3u8
+
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="https://static.iptv-epg.com/pt/SportTV1.pt.png" group-title="PT-Geral",SPORT TV 1 HD
+https://sporttv1.m3u8
+
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="https://static.iptv-epg.com/pt/SportTV2.pt.png" group-title="PT-Geral",SPORT TV 2 HD
+https://sporttv2.m3u8
+
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-logo="https://static.iptv-epg.com/pt/SportTV3.pt.png" group-title="PT-Geral",SPORT TV 3 HD
+https://sporttv3.m3u8
+
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-logo="https://static.iptv-epg.com/pt/SportTV4.pt.png" group-title="PT-Geral",SPORT TV 4 HD
+https://sporttv4.m3u8
+
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="https://static.iptv-epg.com/pt/SportTV5.pt.png" group-title="PT-Geral",SPORT TV 5 HD
+https://sporttv5.m3u8
+
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-logo="https://static.iptv-epg.com/pt/SportTV6.pt.png" group-title="PT-Geral",SPORT TV 6 HD
+https://sporttv6.m3u8
+
+
+
+
+
+
+
+
+
+
+# ===== PT-Radio =====
+#EXTINF:-1 tvg-id="CidadeFM.pt" tvg-logo="https://static.iptv-epg.com/pt/CidadeFM.pt.png" group-title="PT-Radio",CIDADE FM
+https://stream-icy.bauermedia.pt/cidade.aac
+
+#EXTINF:-1 tvg-id="MegaHits.pt" tvg-logo="https://static.iptv-epg.com/pt/MegaHits.pt.png" group-title="PT-Radio",Mega Hits FM
+https://25243.live.streamtheworld.com/MEGA_HITS_SC
+
+#EXTINF:-1 tvg-id="RFM.pt" tvg-logo="https://static.iptv-epg.com/pt/RFM.pt.png" group-title="PT-Radio",RFM FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC
+
+#EXTINF:-1 tvg-id="RadioComercial.pt" tvg-logo="https://static.iptv-epg.com/pt/RadioComercial.pt.png" group-title="PT-Radio",RADIO COMERCIAL FM
+https://stream-icy.bauermedia.pt/comercial.aac
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ===== Deutschland =====
+#EXTINF:-1 tvg-id="DasErste.de" tvg-logo="https://static.iptv-epg.com/de/DasErste.de.png" group-title="Deutschland",ARD DAS ERSTE HD
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+
+#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://static.iptv-epg.com/de/ZDF.de.png" group-title="Deutschland",ZDF HD
+https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTL.de" tvg-logo="https://static.iptv-epg.com/de/RTL.de.png" group-title="Deutschland",RTL HD
+https://s6.hopslan.com/rtltt/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="VOX.de" tvg-logo="https://static.iptv-epg.com/de/VOX.de.png" group-title="Deutschland",VOX HD
+https://s6.hopslan.com/voxz/index.m3u8
+
+#EXTINF:-1 tvg-id="Nitro.de" tvg-logo="https://static.iptv-epg.com/de/Nitro.de.png" group-title="Deutschland",RTL NITRO HD
+https://s6.hopslan.com/nitro1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://static.iptv-epg.com/de/3sat.de.png" group-title="Deutschland",3 SAT HD
+https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arte.de" tvg-logo="https://static.iptv-epg.com/de/Arte.de.png" group-title="Deutschland",ARTE HD
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-logo="https://static.iptv-epg.com/de/ProSieben.de.png" group-title="Deutschland",PRO SIEBEN HD
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KabelEins.de" tvg-logo="https://static.iptv-epg.com/de/KabelEins.de.png" group-title="Deutschland",KABEL EINS HD (IN BEARBEITUNG)
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTLup.de" tvg-logo="https://static.iptv-epg.com/de/RTLup.de.png" group-title="Deutschland",RTL UP HD
+
+
+#EXTINF:-1 tvg-id="VOXup.de" tvg-logo="https://static.iptv-epg.com/de/VOXup.de.png" group-title="Deutschland",VOX UP HD
+
+
+#EXTINF:-1 tvg-id="KiKA.de" tvg-logo="https://static.iptv-epg.com/de/KiKA.de.png" group-title="Deutschland",KIKA HD
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-logo="https://static.iptv-epg.com/de/CartoonNetwork.de.png" group-title="Deutschland",CARTOON NETWORK HD
+
+
+#EXTINF:-1 tvg-id="ToggoPlus.de" tvg-logo="https://static.iptv-epg.com/de/ToggoPlus.de.png" group-title="Deutschland",TOGGO PLUS HD
+
+
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-logo="https://static.iptv-epg.com/de/SuperRTL.de.png" group-title="Deutschland",SUPER RTL HD
+https://s6.hopslan.com/superX/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-logo="https://static.iptv-epg.com/de/DisneyChannel.de.png" group-title="Deutschland",DISNEY CHANNEL HD
+https://s6.hopslan.com/disneyX/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="Sixx.de" tvg-logo="https://static.iptv-epg.com/de/Sixx.de.png" group-title="Deutschland",SIXX HD
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-logo="https://static.iptv-epg.com/de/Sat1Gold.de.png" group-title="Deutschland",SAT.1 GOLD HD
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sat1.de" tvg-logo="https://static.iptv-epg.com/de/Sat1.de.png" group-title="Deutschland",SAT 1 HD
+https://s6.hopslan.com/sat1z/index.m3u8
+
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-logo="https://static.iptv-epg.com/de/ProSiebenMaxx.de.png" group-title="Deutschland",PRO SIEBEN MAXX HD
+https://s6.hopslan.com/pro7maxxX/index.m3u8
+
+#EXTINF:-1 group-title="Deutschland",
+
+
+#EXTINF:-1 group-title="Deutschland",
+
+
+#EXTINF:-1 group-title="Deutschland",
+
+
+
+
+
+# ===== FR-GENERAL =====
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://static.iptv-epg.com/fr/TF1.fr.png" group-title="FR-GENERAL",TF1 HD
+https://srv3.pxfy.dev/?exp=1789963200&sig=43dca0cb2a8e9fd23399682a758b9567cd83bdbe98e7dabc19caf893b127517a&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F149.0.0.0+Safari%2F537.36&url=http%3A%2F%2F151.80.18.177%3A86%2FTF1_HD%2Ftracks-v1a1%2Fmono.m3u8
+
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://static.iptv-epg.com/fr/France2.fr.png" group-title="FR-GENERAL",FRANCE 2 HD
+https://live-ssai-p.ftven.fr/ZXhwPTE3ODgxNDkyMDd+YWNsPSUyZip+aG1hYz02NGY2OWFjYjA5ZWU1NjE1NDIzYzNlZDBhYjBjZmQ5YjlmNmU5MzAwYjk1NjMwNTVlOWZlNTlkZmNlM2ZhMjM4/dai/v1/manifest/c6f323e65336fbba9ea766d582216fd61ed74452/SSAIFrance2OTTEMTConfiguration/25ce6b9e-3350-449c-b2ce-d475154a2b17/9.m3u8
+
+#EXTINF:-1 tvg-id="MezzoLive.fr" tvg-logo="https://static.iptv-epg.com/fr/MezzoLive.fr.png" group-title="FR-GENERAL",MEZZO LIVE HD
+http://stream.mcquack.net/276/index.m3u8
+
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://static.iptv-epg.com/fr/M6.fr.png" group-title="FR-GENERAL",M6 HD
+https://srv3.pxfy.dev/?exp=1789963200&sig=5dd8f82099b58247b7dbba7cef7d77b239ddc4c0ebb07c7fffc93624636afe2b&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F149.0.0.0+Safari%2F537.3&url=http%3A%2F%2F99.27.51.147%3A8080%2FM6%2Ftracks-v1a1%2Fmono.m3u8
+
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://static.iptv-epg.com/fr/France3.fr.png" group-title="FR-GENERAL",FRANCE 3 HD
+https://srv1.pxfy.dev/?exp=1789966800&sig=f3adc428e20ec69da803e7f3291bf5fb9b9a48d4155e313957f09f6f49ccb210&url=http%3A%2F%2F5.180.164.197%3A8080%2FFRANCE3%2Ftracks-v1a1%2Fmono.ts.m3u8
+
+
