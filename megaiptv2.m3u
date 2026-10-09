@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="meo.pt" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?chCallLetter=RTP1&profile=16x9_Transparent_Positive&width=384&appSource=PC_CHROME_PWA&noFallback=true" group-title="PT-Geral",RTP 1 HD
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="rtp.pt" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?chCallLetter=RTP2&profile=16x9_Transparent_Positive&width=384&appSource=PC_CHROME_PWA&noFallback=true" group-title="PT-Geral",RTP 2 HD
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SIC.pt" tvg-name="sic.pt" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?chCallLetter=SIC&profile=16x9_Transparent_Positive&width=384&appSource=PC_CHROME_PWA&noFallback=true" group-title="PT-Geral",SIC HD
+https://sic.live.impresa.pt/sic1080p.m3u8
+#EXTINF:-1 tvg-id="RTPMundo.pt" tvg-name="rtp.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/RTP_Mundo_2026.svg/revision/latest/scale-to-width-down/300?cb=20260330175349" group-title="PT-Geral",RTP Mundo HD
+http://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="tvi.pt" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?chCallLetter=TVI&profile=16x9_Transparent_Positive&width=384&appSource=PC_CHROME_PWA&noFallback=true" group-title="PT-Geral",TVI HD
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="cnnportugal.iol.pt" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?chCallLetter=CNNPT&profile=16x9_Transparent_Positive&width=384&appSource=PC_CHROME_PWA&noFallback=true" group-title="PT-Geral",CNN Portugal HD
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="tvi.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/TVI_Fic%C3%A7%C3%A3o.svg/revision/latest/scale-to-width-down/200?cb=20200915152518" group-title="PT-Geral",TVI Ficção HD
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvificcao.m3u8
+#EXTINF:-1 tvg-id="VPlusTVI.pt" tvg-name="tvi.pt" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?chCallLetter=VMAISTVI&profile=16x9_Transparent_Positive&width=384&appSource=PC_CHROME_PWA&noFallback=true" group-title="PT-Geral",V+ TVI HD
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/vmaistvi.m3u8
+#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-name="tvi.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/TVI_Internacional_2017.png/revision/latest?cb=20170220204842" group-title="PT-Geral",TVI Internacional HD
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
+#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="sicnoticias.pt" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?chCallLetter=SICN&profile=16x9_Transparent_Positive&width=384&appSource=PC_CHROME_PWA&noFallback=true" group-title="PT-Geral",SIC NOTICIAS HD
+https://sicnot.live.impresa.pt/sicnot.m3u8
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="rtp.pt" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?chCallLetter=RTPM&profile=16x9_Transparent_Positive&width=384&appSource=PC_CHROME_PWA&noFallback=true" group-title="PT-Geral",RTP MEMORIA HD
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="tvi.pt" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?chCallLetter=TVIR&profile=16x9_Transparent_Positive&width=384&appSource=PC_CHROME_PWA&noFallback=true" group-title="PT-Geral",TVI REALITY HD
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvireality.m3u8
+#EXTINF:-1 tvg-id="RTP.3.HD.pt" tvg-name="rtp.pt" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?chCallLetter=RTPN&profile=16x9_Transparent_Positive&width=384&appSource=PC_CHROME_PWA&noFallback=true" group-title="PT-Geral",RTP NOTICIAS HD
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="canal11.pt" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?chCallLetter=C11&profile=16x9_Transparent_Positive&width=384&appSource=PC_CHROME_PWA&noFallback=true" group-title="PT-Geral",CANAL 11 HD
+https://dy4isoelz3s0x.cloudfront.net/0_hd.m3u8
+#EXTINF:-1 tvg-id="RTPDesporto1.pt" tvg-name="rtp.pt" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/Desporto_1.png/revision/latest/scale-to-width-down/1000?cb=20240831111745&path-prefix=pt" group-title="PT-Geral",RTP DESPORTO 1 HD
+https://streaming-live.rtp.pt/liverepeater/smil:desporto1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPDesporto2.pt" tvg-name="rtp.pt" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/73/RTP_Desporto_2.png/revision/latest/scale-to-width-down/1000?cb=20241117172246&path-prefix=pt" group-title="PT-Geral",RTP DESPORTO 2 HD
+https://streaming-live.rtp.pt/liverepeater/smil:desporto2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="axn.pt" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?chCallLetter=AXNMHD&profile=16x9_Transparent_Positive&width=384&appSource=PC_CHROME_PWA&noFallback=true" group-title="PT-Geral",AXN MOVIES HD
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="sporttv.pt" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?chCallLetter=SPTVHD&profile=16x9_Transparent_Positive&width=384&appSource=PC_CHROME_PWA&noFallback=true" group-title="PT-Geral",SPORT TV + HD
+https://xtremplay.com/api/proxy?url=http%3A%2F%2Fline.trxdnscloud.ru%2Flive%2F536f99e275%2F6138bf54878f%2F107437.m3u8&ref=http%3A%2F%2Fline.trxdnscloud.ru%2Flive%2F536f99e275%2F6138bf54878f%2F107437.m3u8
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="sporttv.pt" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?chCallLetter=SPT1HD&profile=16x9_Transparent_Positive&width=384&appSource=PC_CHROME_PWA&noFallback=true" group-title="PT-Geral",SPORT TV 1 HD
+https://ds167.bluetier.top/SPT1/index.m3u8?token=U1BUMXxub19jaGVja19pcHwxNzkxNDkzMjM4.02c5ddbbcbda6b36e11db04a971817d58cd70975909a7de615278c5ce247c48b
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="sporttv.pt" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?chCallLetter=SPT2HD&profile=16x9_Transparent_Positive&width=384&appSource=PC_CHROME_PWA&noFallback=true" group-title="PT-Geral",SPORT TV 2 HD
+https://ds167.bluetier.top/SPT2/index.m3u8?token=U1BUMnxub19jaGVja19pcHwxNzkxNDkzMzM3.9c5362c173388e1cccb24bc5e805053492ceec7a85731ac9a461e4f44bb6f743
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="sporttv.pt" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?chCallLetter=SPT3HD&profile=16x9_Transparent_Positive&width=384&appSource=PC_CHROME_PWA&noFallback=true" group-title="PT-Geral",SPORT TV 3 HD
+https://ds167.bluetier.top/SPT3/index.m3u8?token=U1BUM3xub19jaGVja19pcHwxNzkxNDkzNDky.3a0a1ae8a8e02034bf9ff44531f8bdca40d19e4647a06c4db86c3293310a839c
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="sporttv.pt" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?chCallLetter=SPT4HD&profile=16x9_Transparent_Positive&width=384&appSource=PC_CHROME_PWA&noFallback=true" group-title="PT-Geral",SPORT TV 4 HD
+https://ds167.bluetier.top/SPT4/index.m3u8?token=U1BUNHxub19jaGVja19pcHwxNzkxNDkzNTUx.713d7119576163516bf3f41c6365dd686a059e2ee35c7c54dcd0d25ed15271c7
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="sporttv.pt" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?chCallLetter=SPT5HD&profile=16x9_Transparent_Positive&width=384&appSource=PC_CHROME_PWA&noFallback=true" group-title="PT-Geral",SPORT TV 5 HD
+https://ds167.bluetier.top/SPT5/index.m3u8?token=U1BUNXxub19jaGVja19pcHwxNzkxNDkzNjA4.c6800e10b484dc787691c7f4756dcafdf3caa35bd4fbc88aa273b26e3b5533b6
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="sporttv.pt" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?chCallLetter=SPT6HD&profile=16x9_Transparent_Positive&width=384&appSource=PC_CHROME_PWA&noFallback=true" group-title="PT-Geral",SPORT TV 6 HD
+https://ds167.bluetier.top/SPT6/index.m3u8?token=U1BUNnxub19jaGVja19pcHwxNzkxNDkzNzI2.a8c5b540211eadad7a8feae307a3b5e3505d93c6ad1ef88f44891281d8b2ac6f
+#EXTINF:-1 tvg-id="CidadeFM.pt" tvg-name="cidade.fm" tvg-logo="https://play-lh.googleusercontent.com/zo-arNw6LSVkTRSApZfY7oXSSSE9l3l6r8ZRq4MGnHiV9oNsuEAjOUI5GNgahLORxjhVChQROtheUvuE0jmMpg" group-title="PT-Radio",CIDADE FM
+https://stream-hls.rayo.pt/cidade.aac/playlist.m3u8?listeningSessionID=6aabc4a1520b9f52_1850106_jT5c7cnK__00000003dnR&downloadSessionID=0&direct=true&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1791491995&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CQrxKIAQrxKIAAGABCENCzFgAP_gAEPgAB6YIoNB5GdUTXFBMDZ1YJtgKYxXx1BgoIAhBgAAAgAAyJIEKJAGVEEaJAyKBCACAAIAIEABAABAEABAAAAAIIABIACEAEAEIAAAIAAAAEABIAAAAAAMAIAAUAAAgEBUEgEggBQA4RJESMBACoABCUAQCgAEAACAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAQNogLAAKABIACoAFwAMgA-ACOAHIAOcAdwBEQCOAHSAO2AfsBMQCZAFIALUAYsAywBtABoSBHABQAFQAOAAeABBADIANAAigBMACqAG8APwAhIBEAESAI4AVoA7gB-gEUAIwASIAk0BPwFBAMUAbQA9oCHQFHgKbAWwAvMBhoDJAGTgNXAbeA5MKABABIEAAgEpHQJwAFwAUABUADgAIAAXQAyADQAJgAVQAxABvAD9AIgAiQBRgCtAGiAO4AfsBFAEWAIwASIAk0BPwFBAMUAbQA9oCHYFHgUgApsBVgC2AF2gLzAYaAyQBk4DLAGrgNvAcmPAAgERHAAwA-AEpAWyQgJAALAAoAC4AKoAYgA3gB-AHcARQAkQBKQCggGKANoAh0BTYCrAGTkoCoACwAKAAcABIAEwAKoAYoBEAESAI4AUYArQDFAIdAUeApsBagC2AF5gMkAZOA28mABABUUgRgALgAoACoAHAAQAA0ACYAFUAMQAfoBEAESAKMAVoA0QB-gEWAIwARwAkQBQQDFAG0APaAh0BSACmwFWALYAXaAvMBhoDJAGTgMsAbeA5MqACAAUAfsoABAJSWgBgDuAU2AqwAA.IIoNB5GdUTXFBMDZ1YJtgKYxXx1BgoIAhBgAAAgAAyJIEKJAGVEEaJAyKBCACAAIAIEABAABIEABAAAABIIABIACEAEAEIAAAIAAAAEABYAAAAAAMAIAAUAAAgEBWEgEggBQA4RJESMBACoABCUAUCgAEAACAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAQ.YAAAAAAAAAAAundefined
+#EXTINF:-1 tvg-id="MegaHits.pt" tvg-name="megahits.fm" tvg-logo="https://play-lh.googleusercontent.com/mp9pWDepz8iOe43Ohz6MBl1K3b2W3CDfzyhA_r9X1CTytQRzv5REXwU1HfdlByFHv-bcEpfNpDAFo5coBswPJw" group-title="PT-Radio",Mega Hits FM
+https://22533.live.streamtheworld.com/MEGA_HITS_SC
+#EXTINF:-1 tvg-id="RFM.pt" tvg-name="rfm.pt" tvg-logo="https://play-lh.googleusercontent.com/3z6HxJr4V4oA_oLlDla33wo5g6gZEApVvxlLJz30InEbiVuQhG3NSQA3xT2ZSi1JPDnKPhFopBlmbycXNUB1Pg=w240-h480-rw" group-title="PT-Radio",RFM FM
+https://streamtheworld.com
+#EXTINF:-1 tvg-id="Comercial.pt" tvg-name="radiocomercial.pt" tvg-logo="https://novamente.pt/wp-content/uploads/2023/02/drkZNBUn6W.png" group-title="PT-Radio",RADIO COMERCIAL FM
+https://stream-hls.rayo.pt/comercial.aac/playlist.m3u8?direct=true&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1791494505&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CQrxKIAQrxKIAAGABCENCzFgAP_gAEPgAB6YIoNB5GdUTXFBMDZ1YJtgKYxXx1BgoIAhBgAAAgAAyJIEKJAGVEEaJAyKBCACAAIAIEABAABAEABAAAAAIIABIACEAEAEIAAAIAAAAEABIAAAAAAMAIAAUAAAgEBUEgEggBQA4RJESMBACoABCUAQCgAEAACAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAQNogLAAKABIACoAFwAMgA-ACOAHIAOcAdwBEQCOAHSAO2AfsBMQCZAFIALUAYsAywBtABoSBHABQAFQAOAAeABBADIANAAigBMACqAG8APwAhIBEAESAI4AVoA7gB-gEUAIwASIAk0BPwFBAMUAbQA9oCHQFHgKbAWwAvMBhoDJAGTgNXAbeA5MKABABIEAAgEpHQJwAFwAUABUADgAIAAXQAyADQAJgAVQAxABvAD9AIgAiQBRgCtAGiAO4AfsBFAEWAIwASIAk0BPwFBAMUAbQA9oCHYFHgUgApsBVgC2AF2gLzAYaAyQBk4DLAGrgNvAcmPAAgERHAAwA-AEpAWyQgJAALAAoAC4AKoAYgA3gB-AHcARQAkQBKQCggGKANoAh0BTYCrAGTkoCoACwAKAAcABIAEwAKoAYoBEAESAI4AUYArQDFAIdAUeApsBagC2AF5gMkAZOA28mABABUUgRgALgAoACoAHAAQAA0ACYAFUAMQAfoBEAESAKMAVoA0QB-gEWAIwARwAkQBQQDFAG0APaAh0BSACmwFWALYAXaAvMBhoDJAGTgMsAbeA5MqACAAUAfsoABAJSWgBgDuAU2AqwAA.IIoNB5GdUTXFBMDZ1YJtgKYxXx1BgoIAhBgAAAgAAyJIEKJAGVEEaJAyKBCACAAIAIEABAABIEABAAAABIIABIACEAEAEIAAAIAAAAEABYAAAAAAMAIAAUAAAgEBWEgEggBQA4RJESMBACoABCUAUCgAEAACAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAQ.YAAAAAAAAAAAundefined
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="ardmediathek.de" tvg-logo="https://e7.pngegg.com/pngimages/708/234/png-clipart-das-erste-mediathek-satellite-television-ard-s-hd-television-blue-thumbnail.png" group-title="Deutschland",ARD DAS ERSTE HD
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="zdf.de" tvg-logo="https://www.designenlassen.de/blog/wp-content/uploads/2024/03/ZDF-Logo-1024x644.jpg" group-title="Deutschland",ZDF HD
+https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="plus.rtl.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTqn3TPYqRjuOVaF__WV5X8_bwP2-6DaI6JHTiVhgINv19RH9p1bFM0jbt&s=10" group-title="Deutschland",RTL HD
+https://xtremplay.com/api/proxy?url=http%3A%2F%2Fline.trxdnscloud.ru%2Flive%2F536f99e275%2F6138bf54878f%2F889556.m3u8&ref=http%3A%2F%2Fline.trxdnscloud.ru%2Flive%2F536f99e275%2F6138bf54878f%2F889556.m3u8
+#EXTINF:-1 tvg-id="VOX.de" tvg-name="plus.rtl.de" tvg-logo="https://images.seeklogo.com/logo-png/15/1/vox-logo-png_seeklogo-150740.png" group-title="Deutschland",VOX HD
+https://s6.hopslan.com/voxz/index.m3u8
+#EXTINF:-1 tvg-id="Nitro.de" tvg-name="plus.rtl.de" tvg-logo="https://yt3.googleusercontent.com/Y6oag1Aa0MUfyzyfF7W7Ek0j8hny8_1XpSUALE4viPVhMwzfnd5VHPI66w9ZIe073JLJcagEBA=s900-c-k-c0x00ffffff-no-rj" group-title="Deutschland",RTL NITRO HD
+https://s6.hopslan.com/nitro1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/3sathd.png?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Deutschland",3 SAT HD
+https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Arte.de" tvg-name="arte.tv/de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlyaRFaIrO_dyYwbgxuJcDDIxcfVlUpDzk5NkYv5SoSZTnMjc6Mg8bRCE&s=10" group-title="Deutschland",ARTE HD
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="joyn.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUvvYALXKLPG5AQnBQG_lm6hDTQ2ZJfnRHpCZI_u4iyi_bFU_RoEypGKGb&s=10" group-title="Deutschland",PRO SIEBEN HD
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="KabelEins.de" tvg-name="joyn.de" tvg-logo="https://images.seeklogo.com/logo-png/31/1/kabel-eins-hd-logo-png_seeklogo-314844.png" group-title="Deutschland",KABEL EINS HD
+https://xtremplay.com/api/proxy?url=http%3A%2F%2Fline.trxdnscloud.ru%2Flive%2F536f99e275%2F6138bf54878f%2F889551.m3u8&ref=http%3A%2F%2Fline.trxdnscloud.ru%2Flive%2F536f99e275%2F6138bf54878f%2F889551.m3u8
+#EXTINF:-1 tvg-id="RTLUp.de" tvg-name="plus.rtl.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST8Mm_jCfcz4gWqbsG0Onn8tDBCW4m9Y5UKfvMR7fYhnTBTRzQHSydzwum&s=10" group-title="Deutschland",RTL UP HD
+https://xtremplay.com/api/proxy?url=http%3A%2F%2F185.243.7.37%2Fhls%2Fa076dce6e258ab3f68629aea70b928b2%2F833392_847.ts&ref=http%3A%2F%2Fline.trxdnscloud.ru%2Flive%2F536f99e275%2F6138bf54878f%2F833392.m3u8
+#EXTINF:-1 tvg-id="VOXUp.de" tvg-name="plus.rtl.de" tvg-logo="https://www.digitalfernsehen.de/wp-content/uploads/2019/10/Vox-Up-Logo-2019-696x400.jpg" group-title="Deutschland",VOX UP HD
+https://xtremplay.com/api/proxy?url=http%3A%2F%2F185.243.7.37%2Fhls%2F67b58ae8b93bf9b290a80788c3b191d8%2F411445_710.ts&ref=http%3A%2F%2Fline.trxdnscloud.ru%2Flive%2F536f99e275%2F6138bf54878f%2F411445.m3u8
+#EXTINF:-1 tvg-id="KiKa.de" tvg-name="kika.de" tvg-logo="https://images.seeklogo.com/logo-png/61/1/kika-logo-png_seeklogo-610411.png" group-title="Deutschland",KIKA HD
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-logo="https://www.citypng.com/public/uploads/preview/cartoon-network-cn-logo-hd-png-701751694708568zxoq18qbzl.png?v=2026072318" group-title="Deutschland",CARTOON NETWORK HD
+https://cartoon.network.m3u
+#EXTINF:-1 tvg-id="ToggoPlus.de" tvg-name="toggo.de" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Toggo-plus_logo.png/1280px-Toggo-plus_logo.png?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Deutschland",TOGGO PLUS HD
+https://xtremplay.com/api/proxy?url=http%3A%2F%2Fline.trxdnscloud.ru%2Flive%2F536f99e275%2F6138bf54878f%2F411370.m3u8&ref=http%3A%2F%2Fline.trxdnscloud.ru%2Flive%2F536f99e275%2F6138bf54878f%2F411370.m3u8
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="plus.rtl.de" tvg-logo="https://images.seeklogo.com/logo-png/49/1/rtl-super-logo-png_seeklogo-492331.png" group-title="Deutschland",SUPER RTL HD
+https://xtremplay.com/api/proxy?url=http%3A%2F%2Fline.trxdnscloud.ru%2Flive%2F536f99e275%2F6138bf54878f%2F411371.m3u8&ref=http%3A%2F%2Fline.trxdnscloud.ru%2Flive%2F536f99e275%2F6138bf54878f%2F411371.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="tv.disney.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Deutschland",DISNEY CHANNEL HD
+https://s6.hopslan.com/disneyX/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="Sixx.de" tvg-name="joyn.de" tvg-logo="https://images.seeklogo.com/logo-png/31/2/sixx-hd-logo-png_seeklogo-314640.png" group-title="Deutschland",SIXX HD
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="joyn.de" tvg-logo="https://www.pngfind.com/pngs/m/208-2088404_1-gold-hd-logo-2019-sat-1-gold.png" group-title="Deutschland",SAT.1 GOLD HD
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="joyn.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Sat._1_HD_Logo_transparent.png?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Deutschland",SAT 1 HD
+https://s6.hopslan.com/sat1z/index.m3u8
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="joyn.de" tvg-logo="https://hd.joyn.de/prosiebenmaxx/assets/img/logos-hd/image05.jpg" group-title="Deutschland",PRO SIEBEN MAXX HD
+https://s6.hopslan.com/pro7maxxX/index.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="tf1.fr" tvg-logo="https://icon2.cleanpng.com/20180531/fpy/avpv0wjl9.webp" group-title="FR-GENERAL",TF1 HD
+https://srv3.pxfy.dev/?exp=1789963200&sig=43dca0cb2a8e9fd23399682a758b9567cd83bdbe98e7dabc19caf893b127517a&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F149.0.0.0+Safari%2F537.36&url=http%3A%2F%2F151.80.18.177%3A86%2FTF1_HD%2Ftracks-v1a1%2Fmono.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="france.tv" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/France-2-Logo.jpg" group-title="FR-GENERAL",FRANCE 2 HD
+https://live-ssai-p.ftven.fr/ZXhwPTE3ODgxNDkyMDd+YWNsPSUyZip+aG1hYz02NGY2OWFjYjA5ZWU1NjE1NDIzYzNlZDBhYjBjZmQ5YjlmNmU5MzAwYjk1NjMwNTVlOWZlNTlkZmNlM2ZhMjM4/dai/v1/manifest/c6f323e65336fbba9ea766d582216fd61ed74452/SSAIFrance2OTTEMTConfiguration/25ce6b9e-3350-449c-b2ce-d475154a2b17/9.m3u8
+#EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="mezzo.tv/fr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv_5RQibXZow2208bQqgsbPiiQgLgOphSBx8xpbo7zjA&s=10" group-title="FR-GENERAL",MEZZO LIVE HD
+http://stream.mcquack.net/276/index.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVyOav5tROPjD8lo_-oVCkwWCabfsq06-p2uVkrFPcsA&s=10" group-title="FR-GENERAL",M6 HD
+https://sv7.data-stream.top/e838da66a44b57b65585cf895462b810e4a2a82abcc6bc3816197be8268eed61/hls/m6france.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="france.tv" tvg-logo="https://logowik.com/content/uploads/images/france-39793.logowik.com.webp" group-title="FR-GENERAL",FRANCE 3 HD
+https://sv1.data-stream.top/e838da66a44b57b65585cf895462b810e4a2a82abcc6bc3816197be8268eed61/hls/francetv3.m3u8
+#EXTINF:-1 tvg-id="https://epg.pw/api/epg.xml?lang=en&date=20261009&channel_id=549022" tvg-logo="https://logowik.com/content/uploads/images/france-5-20189988.logowik.com.webp" group-title="FR-GENERAL",FRANCE 5 HD
+https://sv7.data-stream.top/e838da66a44b57b65585cf895462b810e4a2a82abcc6bc3816197be8268eed61/hls/francetv5.m3u8
+#EXTINF:-1 tvg-id="Apart.TV.lu" tvg-logo="https://i.imgur.com/IBcMIcZ.png" group-title="🇱🇺LU-GENERAL🇱🇺",APART TV HD
+https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL9.lu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7WKrEtE-DSR6DnOprCtIkciTvqTs61rxVVgZm2OsknaxhDbxhQlFhgX6r&s=10" group-title="🇱🇺LU-GENERAL🇱🇺",RTL 9 HD
+https://sv7.data-stream.top/e838da66a44b57b65585cf895462b810e4a2a82abcc6bc3816197be8268eed61/hls/rtl9france.m3u8
+#EXTINF:-1 tvg-id="Eldoradio.lu" tvg-logo="https://play-lh.googleusercontent.com/Aql6IwBA1mxs_b3-nacB9aHta5EC2mqpryykWdZCymGCTi1zQ4hJ48pO07lzdW9QZ1XaD2I6-ux80o8jthP7_w" group-title="🇱🇺LU-GENERAL🇱🇺",ELDORADIO TV HD
+https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8
+#EXTINF:-1 tvg-id="DudelangeTV.lu" tvg-logo="https://i.imgur.com/2dLYZsc.png" group-title="🇱🇺LU-GENERAL🇱🇺",DUDELANGE TV HD
+https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8
+#EXTINF:-1 tvg-id="MierschTV.lu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBG-HG26Kd-2OG7o6NRU6DHxiG6SahTtkAnlf0NL9bbGkSpo3W-Ox3JiI&s=10" group-title="🇱🇺LU-GENERAL🇱🇺",MIERSCH TV HD
+https://streamer20.multimedia.blue/Post/MerschTV_IPTV/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLTeleLetzebuerg.lu" tvg-logo="https://i.imgur.com/fkW5Gbl.png" group-title="🇱🇺LU-GENERAL🇱🇺",RTL LETZEBUERG HD
+https://stream.rtl.lu/data/live/tele/channel1/1080p.m3u8
+#EXTINF:-1 tvg-id="RTLRadioLetzebuerg.lu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEt4ooeWuB3apNQhLhgWwyWs_IfqfWJ2rAgthRkjFmQ&s=10" group-title="🇱🇺LU-GENERAL🇱🇺",RTL RADIO HD
+https://stream.rtl.lu/data/live/tele/rtlradiowebtv/1080p.m3u8
+#EXTINF:-1 tvg-id="RTLZwee.lu" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/RTL_Zwee_2023.svg/960px-RTL_Zwee_2023.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="🇱🇺LU-GENERAL🇱🇺",RTL ZWEE HD
+https://stream.rtl.lu/data/live/tele/channel2/1080p.m3u8
+#EXTINF:-1 tvg-id="RTLGold.lu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoFerIfG7Ew3TNlDrOHpt7b23Akxh1chyiW---CgmANw&s=10" group-title="🇱🇺LU-GENERAL🇱🇺",RTL GOLD HD
+https://stream.rtl.lu/data/live/tele/rtlgold/1080p.m3u8
+#EXTINF:-1 tvg-id="TodayRadio.lu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTCULsqop2OB97k5wfru9-g-dNTM-Zv6Q9cfKvPb9LFg&s=10" group-title="🇱🇺LU-GENERAL🇱🇺",RTL TODAY HD
+https://stream.rtl.lu/data/live/tele/rtltodayradio/1080p.m3u8
